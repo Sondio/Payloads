@@ -1,0 +1,19 @@
+{
+  "name": "CheatManager",
+  "icons_url": "icons.json",
+  "payloads": [
+    {
+      "name": "CheatManager",
+      "filename": "CheatManager-v0.6.elf",
+      "url": "",
+	  "source": "",
+      "description": "PS5 Cheat Manager for json mc4 shn shnext cheas",
+      "version": "0.6",
+      "last_update": "",
+      "category": "Utilities & Tools",
+      "checksum": "AB769BDE71B8976BBF907DEAC0CF477813C058EE57BCA9E7F90D21E394EC8B8E",
+      "author": "Sondio & BigWadger",
+      "icon_key": "cheatmanager"
+    }
+  ]
+}
