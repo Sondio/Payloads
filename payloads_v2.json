@@ -4,16 +4,29 @@
   "payloads": [
     {
       "name": "CheatManager",
-      "filename": "CheatManager-v0.6.elf",
+      "filename": "CheatManager-v0.1.elf",
       "url": "",
-	  "source": "https://github.com/Sondio/Payloads",
-      "description": "PS5 Cheat Manager for json mc4 shn shnext cheats",
-      "version": "0.6",
-      "last_update": "",
+	  "source": "",
+      "description": "PS5 Cheat Manager for json mc4 shn shnext cheats both PS4 and PS5 with embedded UI",
+      "version": "0.1",
+      "last_update": "2026-05-26",
       "category": "Utilities & Tools",
-      "checksum": "AB769BDE71B8976BBF907DEAC0CF477813C058EE57BCA9E7F90D21E394EC8B8E",
+      "checksum": "",
       "author": "Sondio & BigWadger",
       "icon_key": "cheatmanager"
+    },
+	{
+      "name": "TrophyManager",
+      "filename": "TrophyManager-v0.1.elf",
+      "url": "",
+	  "source": "",
+      "description": "PS5 Trophy Manager for import export edit trophies both PS4 and PS5 with embedded UI",
+      "version": "0.1",
+      "last_update": "2026-10-26",
+      "category": "Utilities & Tools",
+      "checksum": "",
+      "author": "Sondio",
+      "icon_key": "trophymanager"
     }
   ]
 }
