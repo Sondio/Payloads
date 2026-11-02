@@ -3,6 +3,19 @@
   "icons_url": "icons.json",
   "payloads": [
     {
+      "name": "PlaySon5",
+      "filename": "PlaySon5-v0.1.elf",
+      "url": "",
+	  "source": "",
+      "description": "PS5 Interface for manage jailbreak, users, pkgs, saves, trophies, patchs, cheats and more",
+      "version": "0.1",
+      "last_update": "2025-12-25",
+      "category": "Utilities & Tools",
+      "checksum": "",
+      "author": "Sondio",
+      "icon_key": "playson5"
+    },
+	{
       "name": "CheatManager",
       "filename": "CheatManager-v0.1.elf",
       "url": "",
